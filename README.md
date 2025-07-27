@@ -19,4 +19,4 @@ Projeto simples e interativo em HTML, CSS e JavaScript, proposto como desafio fi
 
 Para utilizá-lo, basta clonar esse repositório:
    ```bash
-   git clone https://github.com/fokkenvarbie/CHALLENGE
+   git clone https://github.com/fokkenvarbie/ONEG9-CHALLENGE
