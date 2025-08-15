@@ -1,7 +1,6 @@
 <h1>Sorteador de Amigo Secreto</h1>
 Este projeto é um sorteador online feito para organizar a troca de presentes de forma divertida e sem complicações.<br>
 Ele utiliza tecnologias web essenciais para criar uma experiência simples e intuitiva para o usuário.<br>
-Desenvolvido como desafio final da 2ª trilha do Oracle ONE G9, em parceria com a Alura.<br>
 
 - **Funcionalidades:**
   - Adição de nomes por meio de um campo de texto.<br>
